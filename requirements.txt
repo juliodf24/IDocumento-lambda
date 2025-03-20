@@ -1,2 +1,5 @@
 docxtpl
 pandas
+openpyxl
+docx2pdf
+docxcompose
